@@ -1,4 +1,10 @@
-### Hi there 👋
+![Evelin github stats](https://github-readme-stats.vercel.app/api?username=evelinmarques&theme=dracula&show_icons=true)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/evelinmarquess/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Evelin%20Marques-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelinmarquess/"/></a>
+<a href="mailto:http.evelinmarques@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-http.evelinmarques@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:http.evelinmarques@gmail.com"/></a>
+</p>
+
 
 <!--
 **evelinmarques/evelinmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
