@@ -1,16 +1,28 @@
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evelinmarques&show_icons=true&theme=dracula"> 
-</p>
+## Oii, sou a Évelin!
+<div align="center">
+  <a href="https://github.com/evelinmarques">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelinmarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelinmarques&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Evelin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Evelin-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Evelin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Evelin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Evelin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/evelinmarquess target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:http.evelinmarques@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/evelin.marques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelinmarques&layout=compact&theme=dracula"> 
-</p>
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/evelinmarquess/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Evelin%20Marques-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelinmarquess/"/></a>
-<a href="mailto:http.evelinmarques@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-http.evelinmarques@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:http.evelinmarques@gmail.com"/></a>
- <a href="https://www.instagram.com/evelin.marques/" target="blank"><img alt="Instagram Badge" src="https://img.shields.io/badge/-evelin.marques-563D7C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/evelin.marques/"/></a>
-</p>
 
 <!--
 **evelinmarques/evelinmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
